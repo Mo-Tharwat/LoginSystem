@@ -1,0 +1,21 @@
+body{
+    background-color: #24353f;
+}
+.from{
+    background-color: #24353f;
+    box-shadow: 10px 10px 50px 5px black;
+}
+h1{
+    color: #17a2b8;
+}
+.btn{
+    color: #17a2b8;
+    border-color: #17a2b8;
+}
+.btn:hover{
+    background-color: #17a2b8;
+    color: white;
+}
+
+
+
